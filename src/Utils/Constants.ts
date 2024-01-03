@@ -1,0 +1,15 @@
+export const Colors = {
+  white: '#FFFFFF',
+  black: '#000000',
+  Off_White: '#F3F3F3',
+  orange: '#F76951',
+  gray: '#999',
+  backGround: "#FFF",
+  backGroundSurface: "#FFFFFF",
+  primaryTextColor: "#040C22",
+  //primaryTextColor: "red",
+  secondaryTextColor: "#363D4E",
+  blue: "#2264F3",
+  active: "#F26333",
+  idle: "#5C616F",
+};
